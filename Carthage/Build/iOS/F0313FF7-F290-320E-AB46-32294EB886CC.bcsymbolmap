@@ -1,0 +1,65 @@
+BCSymbolMap Version: 2.0
+_$s13BillProcessorAACMi
+_$s13BillProcessorAACMr
+_$s13BillProcessorAACfd
+_$s13BillProcessorAACfD
+_$s13BillProcessorAACMa
+_symbolic $s13BillProcessor8BillableP
+_$s13BillProcessor8Billable_pMF
+_$s13BillProcessorMXM
+_symbolic x
+_$s13BillProcessor8BillableMp
+_symbolic _____ 13BillProcessor12DiscountTypeO
+_$s13BillProcessor12DiscountTypeOMF
+_symbolic $s13BillProcessor12DiscountableP
+_$s13BillProcessor12Discountable_pMF
+_$s13BillProcessor12DiscountableMp
+_symbolic $s13BillProcessor7TaxableP
+_$s13BillProcessor7Taxable_pMF
+_$s13BillProcessor7TaxableMp
+_$s13BillProcessorAAC4bill33_0671212DAD49F41F598D01E9CBF88335LLSayxGvpWvd
+_$s13BillProcessorAAC24appliedTaxableCategories33_0671212DAD49F41F598D01E9CBF88335LLSayq_GvpWvd
+_$s13BillProcessorAAC16appliedDiscounts33_0671212DAD49F41F598D01E9CBF88335LLSayq0_GvpWvd
+_$s13BillProcessorAAC14decimalHandler33_0671212DAD49F41F598D01E9CBF88335LLSo015NSDecimalNumberD0CvpWvd
+_$s13BillProcessorAACMI
+_symbolic q_
+_symbolic q0_
+_$s13BillProcessorAACMn
+_$s13BillProcessorAACMP
+_symbolic _____ 13BillProcessorAAC
+_symbolic SayxG
+_symbolic Sayq_G
+_symbolic Sayq0_G
+_symbolic So22NSDecimalNumberHandlerC
+_$s13BillProcessorAACMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftDarwin_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftDispatch_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftUIKit_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftCoreImage_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftMetal_$_BillProcessor
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_BillProcessor
+_$s13BillProcessor12DiscountTypeOMn
+___swift_reflection_version
+_$s13BillProcessor8BillableTL
+_$s13BillProcessor8BillablePSHTb
+_$s13BillProcessor12DiscountableTL
+_$s13BillProcessor7TaxableTL
+_$s13BillProcessorAAC6localeAByxq_q0_G10Foundation6LocaleVSg_tcfCTq
+Apple LLVM version 10.0.1 (clang-1001.0.46.5)
+<swift-imported-modules>
+/Users/admin/Desktop/BillProcessor
+Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)
+/Users/admin/Desktop/BillProcessor/BillProcessor/BillProcessing.swift
+$s13BillProcessorAACMa
+<compiler-generated>
+deinit
+BillProcessing.swift
+/Users/admin/Desktop/BillProcessor/BillProcessor
+$s13BillProcessorAACMr
+$s13BillProcessorAACMi
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
+/Users/admin/Library/Developer/Xcode/DerivedData/BillProcessor-abtzvtwxilzkrrdtlkjytztommyw/Build/Intermediates.noindex/ArchiveIntermediates/BillProcessor/IntermediateBuildFilesPath/BillProcessor.build/Release-iphoneos/BillProcessor.build/DerivedSources/BillProcessor_vers.c

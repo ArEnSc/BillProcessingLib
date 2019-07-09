@@ -1,0 +1,11 @@
+framework module BillProcessor {
+  umbrella header "BillProcessor.h"
+
+  export *
+  module * { export * }
+}
+
+module BillProcessor.Swift {
+    header "BillProcessor-Swift.h"
+    requires objc
+}
